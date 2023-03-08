@@ -1,1 +1,1 @@
-# gh-pages
+https://ninthorion.github.io/rsschool-cv/
